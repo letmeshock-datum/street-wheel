@@ -7,3 +7,5 @@ dist/
 .claude/
 __pycache__/
 .DS_Store
+.vercel
+.env*
